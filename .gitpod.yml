@@ -1,0 +1,16 @@
+tasks:
+  - init: mvn compile -DskipTests=true
+
+vscode:
+  extensions:
+    - vscjava.vscode-java-debug
+    - redhat.java
+    - vscjava.vscode-maven
+    - vscjava.vscode-java-test
+    - vscjava.vscode-java-dependency
+    - redhat.vscode-xml
+
+jetbrains:
+  intellij:
+    prebuilds:
+      version: stable
