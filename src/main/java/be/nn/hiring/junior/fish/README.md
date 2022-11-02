@@ -1,4 +1,4 @@
-# Lantern fish simulator
+# Fish simulator
 
 Imagine there is a species of fish that rapidly reproduces. In this case, we'll assume that each fish spawns a new 
 fish once every 7 days.
